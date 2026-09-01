@@ -39,10 +39,7 @@ st.write(
     "Upload a chest X-ray image to classify the image as "
     "**NORMAL** or **PNEUMONIA**."
 )
-st.info(
-    "This application is intended for educational and research purposes "
-    "and should not be used as a substitute for professional medical diagnosis."
-)
+
 
 # --------------------------------------------------
 # Upload Image
